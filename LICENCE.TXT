@@ -1,0 +1,9 @@
+Copyright Narahari Allamraju 2011.
+
+This software was built using Apache Licenced libraries. The software is free 
+for use if you intend to use it for learning.
+
+If you want to use this as a part of a larger software for use in your company
+or as part of any commercial software that you are building then this is not
+free. Please get in touch with me on anarahari@gmail.com and we can agree on 
+the terms.
